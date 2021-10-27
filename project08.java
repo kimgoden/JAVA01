@@ -7,24 +7,24 @@ public class project08 extends porject {
 	int y = 4;
 	int z = x * y;
 	
-	System.out.println("»ç°¥ÇüÀÇ ³ĞÀÌ´Â " +z);
+	System.out.println("ì‚¬ê°í˜•ì˜ ë„“ì´ëŠ” " +z);
 	
-	  System.out.println("»ï°¢ÇüÀÇ ³ĞÀÌ´À " +(z/2));
+	  System.out.println("ì‚¼ê°í˜•ì˜ ë„“ì´ëŠ " +(z/2));
 	
 	int a = 40;
 	int b = 30;
 	int c = 10;
 	int q = a + b + c;
 	
-	System.out.println("Æò±ÕÀº " + (q/3));
+	System.out.println("í‰ê· ì€ " + (q/3));
 	
 	int d = 1200;
 	int e = 240;
-	System.out.println("¿¬ºÀÀº " +(d-e));
+	System.out.println("ì—°ë´‰ì€ " +(d-e));
 	
 	int f = 256;
 	int k = f / 60;
-	System.out.println(k + "ºĞ " + (f%60) + "ÃÊ");
+	System.out.println(k + "ë¶„ " + (f%60) + "ì´ˆ");
 	
 	
 	int g = 10;
@@ -38,7 +38,7 @@ public class project08 extends porject {
 	System.out.println();
 
 	int i = 534;
-	System.out.println("ÇĞ»ı´ç ¹ŞÀ» ¼ö ÀÖ´Â ¿¬ÇÊÀº " +(i/30) +  "°³ ÀÌ°í" + " ³²Àº ¿¬ÇÊÀº " + (i%30) + "°³ ÀÌ´Ù.");
+	System.out.println("í•™ìƒë‹¹ ë°›ì„ ìˆ˜ ìˆëŠ” ì—°í•„ì€ " +(i/30) +  "ê°œ ì´ê³ " + " ë‚¨ì€ ì—°í•„ì€ " + (i%30) + "ê°œ ì´ë‹¤.");
 	
 	int value = 356;
 	int j = 356 % 300;
